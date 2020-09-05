@@ -1,0 +1,107 @@
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd.mdf
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form2.resources
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form2.resources
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.CoreCompileInputs.cache
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd.mdf
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+F:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd.mdf
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form2.resources
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+D:\учеба\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+H:\КУРСОВАЯ ПП\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd.mdf
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form2.resources
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.CoreCompileInputs.cache
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+F:\учеба\КУРСОВАЯ ПП\учетка\kurs_bd_izd\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\bin\Debug\bd_izd.mdf
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+H:\КУРСОВАЯ ПП\kurs_bd_izd(2 без авторизации)\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd.mdf
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+H:\КУРСОВАЯ ПП\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd.mdf
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.CoreCompileInputs.cache
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+C:\Users\Катя Аристова\Desktop\у(ч)ёба\3 курс\я ненавижу эту жииииииииизеньб\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd.mdf
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.CoreCompileInputs.cache
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+F:\чтоМожетОпозоритьМеняЕщеСильнее\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe.config
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.exe
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.pdb
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd.mdf
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\bin\Debug\bd_izd_log.ldf
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.exe
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\bin\Debug\kurs_bd_izd.pdb
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csprojResolveAssemblyReference.cache
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Form1.resources
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.Properties.Resources.resources
+F:\3 курс\Курсовая_БД_ИЗДАТЕЛЬСТВА(c#)\kurs_bd_izd()\kurs_bd_izd\obj\Debug\kurs_bd_izd.csproj.GenerateResource.Cache
